@@ -6,7 +6,7 @@ The **reactDicitonary** project is an advanced React application designed to del
 
 ### Main Components
 
-**`App` Component**:
+
 
 1. **`App` Component**: The heart of the application, managing the core state and orchestrating interactions between components. It controls the search functionality, dark mode, and API communication, ensuring a seamless user experience.
 
