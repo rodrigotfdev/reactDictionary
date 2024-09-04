@@ -6,13 +6,15 @@ The **reactDicitonary** project is an advanced React application designed to del
 
 ### Main Components
 
-1. **App Component**: The heart of the application, managing the core state and orchestrating interactions between components. It controls the search functionality, dark mode, and API communication, ensuring a seamless user experience.
+**`App` Component**:
 
-2. **TopMenu Component**: A stylish navigation bar that allows users to toggle between light and dark modes. It also prominently features the application logo and title.
+1. **`App` Component**: The heart of the application, managing the core state and orchestrating interactions between components. It controls the search functionality, dark mode, and API communication, ensuring a seamless user experience.
 
-3. **WordSearch Component**: A user-friendly search form where users can input words and initiate searches, making it easy to retrieve and display word definitions.
+2. **`TopMenu` Component**: A stylish navigation bar that allows users to toggle between light and dark modes. It also prominently features the application logo and title.
 
-4. **Results Component**: Displays the fetched word definitions in an engaging format. It includes phonetic spelling, meanings, synonyms, and pronunciation audio. This component effectively communicates the richness of the dictionary data.
+3. **`WordSearch` Component**: A user-friendly search form where users can input words and initiate searches, making it easy to retrieve and display word definitions.
+
+4. **`Results` Component**: Displays the fetched word definitions in an engaging format. It includes phonetic spelling, meanings, synonyms, and pronunciation audio. This component effectively communicates the richness of the dictionary data.
 
 ### Key Functionalities
 
